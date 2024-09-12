@@ -4,22 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VJBots&label=Profile%20views&color=0e75b6&style=flat" YaduvanshiXD" /> </p>
-
-- 🔭 I’m currently working on Studying
-
-- 🌱 I’m currently learning **civil Engineering**
-
-- 👯 I’m looking to collaborate on [B4UMovieHouse](https://telegram.me/B4UMovieHouse)
-
-- 🤝 I’m looking for help with ****Yaduvanshi Xbotz****
-
-- 👨‍💻 All of my projects are available at [My Channel](https://telegram.me/Yaduvanshixbotz)
-
-- 📫 How to reach me [YaduvanshiXD](https://telegram.me/Yaduvanshixd)
-
-- ⚡ Fun fact **Iam very Funny 🤣**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VJBots&label=Profile%20views&color=0e75b6&style=flat" Alexbots1" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/Yaduvanshi_pradeep__143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir_status.ab" height="30" width="40" /></a>
@@ -27,8 +12,8 @@
 
 
   
-  <a href="https://github.com/Yaduvanshixd/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Yaduvanshi+Pradeep&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+  <a href="https://github.com/Alexbots1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SAH+MANKESH&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;My+Name+Is+Pradeep+Yadav;I+Am+A+Bot+Developer;Currently+Learning+Python;Thank+You!)
@@ -44,7 +29,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://profile-counter.glitch.me/{VJBots}/count.svg" alt="Yaduvanshi Pradeep:: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{VJBots}/count.svg" alt="Alexbots1:: Visitor's Count" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=VJBots&color=yellow" alt="watching_count" />
